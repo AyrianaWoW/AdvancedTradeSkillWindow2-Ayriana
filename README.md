@@ -1,5 +1,6 @@
 # DEPRECATED
 This is an old fork from an earlier bugfix that has been merged upstream.
+
 Please use the official version instead: https://github.com/Shellyoung/AdvancedTradeSkillWindow2
 
 # Advanced Trade Skill Window 2
